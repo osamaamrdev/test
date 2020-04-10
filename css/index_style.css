@@ -1,0 +1,41 @@
+.osama-section {
+    background-color: #FAFAFA;
+    font-family: "Scope One";
+}
+
+.osama-section h2 {
+    font-size: 2.2rem;
+    font-weight: 700;
+}
+
+.osama-section .main-p {
+    font-weight: 300;
+    color: #BFBFBF;
+}
+
+.osama-section .divs-container {
+    width: 85%;
+}
+
+.osama-section .one img {
+    border: 1px solid #CCC;
+    padding: 5px;
+    background-color: #FFF;
+}
+
+.osama-section .one p {
+    color: #999;
+    font-size: 0.9rem;
+}
+
+.osama-section .one button {
+    background-color: #3498DB;
+    color: #FFF;
+    font-weight: 700;
+    padding: 7px 17px;
+    transition: 0.3s background-color ease-in-out;
+}
+
+.osama-section .one button:hover {
+    background-color: #45a9ec;
+}
